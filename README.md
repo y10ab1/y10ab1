@@ -2,8 +2,8 @@
 
 <p align='center'>
 
-  <a href="yuehpo.peng@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:yuehpo.peng@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:yuehpo.peng@gmail.com" />
   </a>
   <a href="https://www.linkedin.com/in/yueh-po-peng-5a5044230/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
