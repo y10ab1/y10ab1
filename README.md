@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm y10ab1</h1>
+<h1 align="center">👋</h1>
 
 <p align='center'>
 
