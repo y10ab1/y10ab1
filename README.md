@@ -14,6 +14,18 @@
 <!--img align="center" style="width: 50% " src="https://github-readme-stats.vercel.app/api/wakatime?username=y10ab1&show_icons=true&locale=en&theme=radical" alt="y10ab1" /-->
 
 <!--START_SECTION:waka-->
+
+```text
+From: 07 October 2022 - To: 08 October 2022
+
+Total Time: 2 hrs 39 mins
+
+Python       1 hr 46 mins    >>>>>>>>>>>>>>>>>--------   67.17 %
+HTML         38 mins         >>>>>>-------------------   24.37 %
+JavaScript   10 mins         >>-----------------------   06.51 %
+Other        3 mins          -------------------------   01.91 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y10ab1&label=Profile%20views&color=0e75b6&style=flat" alt="y10ab1" /> </p>
