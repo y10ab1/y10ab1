@@ -13,7 +13,7 @@
   </a-->
 </p>
 
-<img align="center" style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=y10ab1&show_icons=true&locale=en&theme=radical" alt="y10ab1" /><img align="center" style="width: 50%" src="https://github-readme-streak-stats.herokuapp.com/?user=y10ab1&&theme=radical" alt="y10ab1" />
+<img align="center" style="width: 47%" src="https://github-readme-stats.vercel.app/api?username=y10ab1&show_icons=true&locale=en&theme=radical" alt="y10ab1" /><img align="center" style="width: 50%" src="https://github-readme-streak-stats.herokuapp.com/?user=y10ab1&&theme=radical" alt="y10ab1" />
 
 
 <!--START_SECTION:waka-->
