@@ -19,15 +19,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2022 - To: 05 July 2023
+From: 07 October 2022 - To: 06 July 2023
 
-Total Time: 248 hrs 17 mins
+Total Time: 250 hrs 31 mins
 
-Python       185 hrs 35 mins >>>>>>>>>>>>>>>>>>>------   74.75 %
-Other        25 hrs 34 mins  >>>----------------------   10.30 %
-Bash         11 hrs 38 mins  >------------------------   04.69 %
-CSV          8 hrs 39 mins   >------------------------   03.49 %
-JSON         4 hrs 18 mins   -------------------------   01.74 %
+Python       186 hrs 21 mins >>>>>>>>>>>>>>>>>>>------   74.39 %
+Other        26 hrs 45 mins  >>>----------------------   10.68 %
+Bash         11 hrs 38 mins  >------------------------   04.65 %
+CSV          8 hrs 39 mins   >------------------------   03.46 %
+JSON         4 hrs 35 mins   -------------------------   01.83 %
 ```
 
 <!--END_SECTION:waka-->
