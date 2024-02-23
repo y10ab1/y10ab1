@@ -19,15 +19,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2022 - To: 20 February 2024
+From: 07 October 2022 - To: 21 February 2024
 
-Total Time: 796 hrs 23 mins
+Total Time: 798 hrs 34 mins
 
-Python           533 hrs 11 mins >>>>>>>>>>>>>>>>>--------   66.95 %
-Other            114 hrs 49 mins >>>>---------------------   14.42 %
-Bash             68 hrs 36 mins  >>-----------------------   08.61 %
+Python           534 hrs 32 mins >>>>>>>>>>>>>>>>>--------   66.94 %
+Other            114 hrs 49 mins >>>>---------------------   14.38 %
+Bash             68 hrs 36 mins  >>-----------------------   08.59 %
 CSV              12 hrs 6 mins   -------------------------   01.52 %
-Ezhil            10 hrs 47 mins  -------------------------   01.36 %
+Ezhil            10 hrs 47 mins  -------------------------   01.35 %
 ```
 
 <!--END_SECTION:waka-->
