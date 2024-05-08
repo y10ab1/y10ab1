@@ -19,11 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2022 - To: 05 May 2024
+From: 07 October 2022 - To: 06 May 2024
 
-Total Time: 855 hrs 5 mins
+Total Time: 855 hrs 21 mins
 
-Python           580 hrs 39 mins >>>>>>>>>>>>>>>>>--------   67.91 %
+Python           580 hrs 54 mins >>>>>>>>>>>>>>>>>--------   67.91 %
 Other            115 hrs 1 min   >>>----------------------   13.45 %
 Bash             69 hrs 6 mins   >>-----------------------   08.08 %
 CSV              12 hrs 9 mins   -------------------------   01.42 %
