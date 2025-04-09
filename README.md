@@ -23,9 +23,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2022 - To: 06 April 2025
+From: 07 October 2022 - To: 07 April 2025
 
-Total Time: 894 hrs 58 mins
+Total Time: 894 hrs 59 mins
 
 Python           600 hrs 58 mins >>>>>>>>>>>>>>>>>--------   67.15 %
 Other            115 hrs 26 mins >>>----------------------   12.90 %
