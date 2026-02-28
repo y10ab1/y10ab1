@@ -12,9 +12,11 @@ Machine Learning Engineer specializing in:
 - Large-scale AI systems (LLMs, multimodal models)
 - Deep learning in production environments
 - Self-supervised learning & representation learning
+- Music Information Retrieval (MIR) & audio modeling
 - End-to-end ML system design
 
-I focus on bridging **research innovation and scalable deployment**.
+My work spans **neuroimaging, music/audio AI, and scalable AI platforms**,  
+with a focus on bridging research innovation and real-world deployment.
 
 ---
 
@@ -23,12 +25,12 @@ I focus on bridging **research innovation and scalable deployment**.
 <p align="center">
 
 <!-- Languages -->
-<img src="https://skillicons.dev/icons?i=python,ts,bash" />
+<img src="https://skillicons.dev/icons?i=python,go,ts,bash" />
 
 <br/><br/>
 
 <!-- ML / Data -->
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 
 <br/><br/>
 
@@ -37,8 +39,8 @@ I focus on bridging **research innovation and scalable deployment**.
 
 <br/><br/>
 
-<!-- Infra -->
-<img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,linux" />
+<!-- Infra / Cloud -->
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,cloudflare,linux" />
 
 </p>
 
