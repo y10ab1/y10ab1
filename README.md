@@ -44,13 +44,9 @@ with a focus on bridging research innovation and real-world deployment.
 
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-y10ab1.vercel.app/api?username=y10ab1&show_icons=true&theme=radical" />
-</p>
+</p> -->
 
 ---
 
