@@ -3,6 +3,22 @@
 Senior Machine Learning Engineer · AI Systems · Research & Production
 </p>
 
+<p align="center">
+  <a href="mailto:yuehpo.peng@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yueh-po-peng/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://y10ab1.github.io/CV.pdf">
+    <img src="https://img.shields.io/badge/CV-Download-4A90E2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=uFf4DmoAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-34A853?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
+</p>
+
+
 ---
 
 ## 👨‍💻 About Me
@@ -22,39 +38,13 @@ with a focus on bridging research innovation and real-world deployment.
 
 ## 🛠 Technical Stack
 
-<p align="center">
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,go,ts,bash" /> |
+| **ML / Research** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" /> |
+| **Data & Experimentation** | <img src="https://skillicons.dev/icons?i=anaconda,linux,git" /> |
+| **Web & Systems** | <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs" /> |
+| **Cloud & Infra** | <img src="https://skillicons.dev/icons?i=docker,aws,gcp,cloudflare" /> |
 
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=python,go,ts,bash" />
-
-<br/><br/>
-
-<!-- ML / Data -->
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-
-<br/><br/>
-
-<!-- Backend / Frontend -->
-<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs" />
-
-<br/><br/>
-
-<!-- Infra / Cloud -->
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,cloudflare,linux" />
-
-</p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats-y10ab1.vercel.app/api?username=y10ab1&show_icons=true&theme=radical" />
-</p> -->
 
 ---
-
-## 📄 Links
-
-<p>
-  <a href="mailto:yuehpo.peng@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/yueh-po-peng/">LinkedIn</a> ·
-  <a href="https://y10ab1.github.io/CV.pdf">CV</a> ·
-  <a href="https://scholar.google.com/citations?user=uFf4DmoAAAAJ">Google Scholar</a>
-</p>
