@@ -17,7 +17,21 @@
 
 </p>
 
-<img align="center" style="width: 47%" src="https://github-readme-stats.vercel.app/api?username=y10ab1&show_icons=true&locale=en&theme=radical" alt="y10ab1" /><img align="center" style="width: 50%" src="https://github-readme-streak-stats.herokuapp.com/?user=y10ab1&&theme=radical" alt="y10ab1" />
+<br/>
+
+| GitHub Stats | Streak |
+|---|---|
+| <img src="https://github-readme-stats.vercel.app/api?username=y10ab1&show_icons=true&locale=en&theme=radical&cache_seconds=21600" alt="GitHub Stats" /> | <img src="https://streak-stats.demolab.com?user=y10ab1&theme=radical" alt="GitHub Streak" /> |
+
+<!-- Optional: Top languages (uncomment if you want)
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=y10ab1&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=21600" alt="Top Languages" />
+</p>
+-->
+
+<!-- <img align="center" style="width: 47%" src="https://github-readme-stats.vercel.app/api?username=y10ab1&show_icons=true&locale=en&theme=radical" alt="y10ab1" /><img align="center" style="width: 50%" src="https://github-readme-streak-stats.herokuapp.com/?user=y10ab1&&theme=radical" alt="y10ab1" /> -->
 
 
 <!--START_SECTION:waka-->
@@ -36,5 +50,6 @@ CSV              13 hrs 37 mins        -------------------------   01.46 %
 
 <!--END_SECTION:waka-->
 <!--img align="center" style="width: 50% " src="https://github-readme-stats.vercel.app/api/top-langs?username=y10ab1&show_icons=true&locale=en&layout=compact&theme=radical" alt="y10ab1" /-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=y10ab1&label=Profile%20views&color=0e75b6&style=flat" alt="y10ab1" /> </p>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=y10ab1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
