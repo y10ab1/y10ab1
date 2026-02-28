@@ -21,18 +21,16 @@ Senior Machine Learning Engineer · AI Systems · Research & Production
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Hi there
 
-Machine Learning Engineer specializing in:
+I'm a Senior Machine Learning Engineer at Gamania Digital Entertainment.
 
-- Large-scale AI systems (LLMs, multimodal models)
-- Deep learning in production environments
-- Self-supervised learning & representation learning
-- Music Information Retrieval (MIR) & audio modeling
-- End-to-end ML system design
+Previously, I worked as:
+- AI Engineer at Gate.io
+- Visiting Researcher at Sony (Tokyo)
+- Research Assistant at Academia Sinica
 
-My work spans **neuroimaging, music/audio AI, and scalable AI platforms**,  
-with a focus on bridging research innovation and real-world deployment.
+Background in Data Science and Computer Science.
 
 ---
 
