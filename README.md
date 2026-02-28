@@ -38,9 +38,8 @@ Background in Data Science and Computer Science.
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,go,ts,bash" /> |
-| **ML / Research** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" /> |
-| **Data & Experimentation** | <img src="https://skillicons.dev/icons?i=anaconda,linux,git" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,go,ts,c++,c,bash" /> |
+| **ML / Dev** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda,mysql,redis,linux,git" /> |
 | **Web & Systems** | <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs" /> |
 | **Cloud & Infra** | <img src="https://skillicons.dev/icons?i=docker,aws,gcp,cloudflare" /> |
 
