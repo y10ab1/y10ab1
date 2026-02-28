@@ -1,7 +1,7 @@
 <h1 align="center">Yueh-Po Peng</h1>
-<p align="center">
+<!-- <p align="center">
 Senior Machine Learning Engineer · AI Systems · Research & Production
-</p>
+</p> -->
 
 <p align="center">
   <a href="mailto:yuehpo.peng@gmail.com">
