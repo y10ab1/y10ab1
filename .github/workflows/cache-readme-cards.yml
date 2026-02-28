@@ -1,0 +1,50 @@
+name: Cache README Cards
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cache-readme-cards
+  cancel-in-progress: true
+
+jobs:
+  cache-cards:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Ensure assets directory
+        run: mkdir -p assets
+
+      - name: Download GitHub README Stats (stats)
+        run: |
+          curl -L 'https://github-readme-stats.vercel.app/api?username=y10ab1&show_icons=true&locale=en&theme=radical&cache_seconds=21600' \
+            -o assets/stats.svg
+
+      - name: Download GitHub README Stats (top languages)
+        run: |
+          curl -L 'https://github-readme-stats.vercel.app/api/top-langs/?username=y10ab1&layout=compact&locale=en&theme=radical&cache_seconds=21600' \
+            -o assets/top-langs.svg
+
+      - name: Download Streak Stats
+        run: |
+          curl -L 'https://streak-stats.demolab.com?user=y10ab1&theme=radical' \
+            -o assets/streak.svg
+
+      - name: Commit & push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(assets): update cached README cards"
+          file_pattern: assets/*.svg
+          commit_user_name: readme-cards 🤖
+          commit_user_email: actions@github.com
+          commit_author: readme-cards 🤖 <actions@github.com>
