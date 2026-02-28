@@ -27,7 +27,7 @@ I'm a Senior Machine Learning Engineer at Gamania Digital Entertainment.
 
 Previously, I worked as:
 - AI Engineer at Gate.io
-- Visiting Researcher at Sony (Tokyo)
+- Visiting Researcher at SonyCSL (Tokyo)
 - Research Assistant at Academia Sinica
 
 Background in Data Science and Computer Science.
