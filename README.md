@@ -21,7 +21,11 @@
 
 | GitHub Stats | Streak |
 |---|---|
-| <img src="https://github-readme-stats.vercel.app/api?username=y10ab1&show_icons=true&locale=en&theme=radical&cache_seconds=21600" alt="GitHub Stats" /> | <img src="https://streak-stats.demolab.com?user=y10ab1&theme=radical" alt="GitHub Streak" /> |
+| <img src="assets/stats.svg" alt="GitHub Stats" /> | <img src="assets/streak.svg" alt="GitHub Streak" /> |
+
+<p align="center">
+  <img src="assets/top-langs.svg" alt="Top Languages" />
+</p>
 
 <!-- Optional: Top languages (uncomment if you want)
 <br/>
